@@ -1,0 +1,19 @@
+{
+  "quantity": {
+    "Zeus": {
+      "sticker_unit": "เซนติเมตร (cm)",
+      "sheet_unit": "เซนติเมตร (cm)",
+      "option_unit": "เซนติเมตร (cm)",
+      "sheet_size_preset": "กำหนดเอง",
+      "sticker_width": 10.0,
+      "sticker_height": 10.0,
+      "sheet_width": 57.0,
+      "sheet_height": 41.0,
+      "gap": 0.6,
+      "tolerance": 2.0,
+      "marks_count": 4,
+      "updated_at": "2026-05-30 11:55:45"
+    }
+  },
+  "roll": {}
+}
